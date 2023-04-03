@@ -1,3 +1,3 @@
 //HELLO WORLD
 
-pafina da barbearia alura
+pagina da barbearia alura
